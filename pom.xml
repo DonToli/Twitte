@@ -80,6 +80,10 @@
             <artifactId>spring-security-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.session</groupId>
+            <artifactId>spring-session-jdbc</artifactId>
+        </dependency>
                     <!-- mail -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
